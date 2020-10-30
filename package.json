@@ -1,0 +1,26 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "a blog for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderwff/My-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderwff/My-Blog/issues"
+  },
+  "homepage": "https://github.com/coderwff/My-Blog#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
