@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/coderwff/My-Blog#readme",
   "dependencies": {
-    "koa": "^2.13.0"
+    "ejs": "^3.1.5",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "koa-views": "^6.3.1",
+    "require-directory": "^2.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
